@@ -6,6 +6,7 @@
 # @return int整型
 #
 
+### 使用字典
 class Solution:
     def duplicate(self , numbers):
         # write code here
